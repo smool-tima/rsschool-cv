@@ -6,7 +6,7 @@
 - **Military service**: Liable
 - **Ready to start work from**: 2023-10-16
 - **Ready to work full time**: Yes
-- **Photo**: 
+- **Photo**: https://drive.google.com/file/d/1-XFpcHg-4mErtE6urdllTLyxYQLY5iSM/view?usp=sharing 
 ## Contacts
 - **Phone**: +375292426164
 - **Email**: boitsov04022002@gmail.com
